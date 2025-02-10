@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Altium Designer
 - 📫 How to reach me
 
-![My Skills](https://skillicons.dev/icons?i=linkedin)
+![(https://skillicons.dev/icons?i=linkedin)]
   
 ![Praveen GitHub stats](https://github-readme-stats.vercel.app/api?username=PraveenGuru26&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenGuru26&hide_progress=true)

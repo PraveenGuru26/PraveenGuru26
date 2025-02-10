@@ -3,7 +3,7 @@
 
 **Praveen Guru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="https://img.shields.io/badge/altium%20designer-A5915F?style=for-the-badge&logo=altium%20designer&logoColor=white" /> 
+[<img src="https://img.shields.io/badge/altium%20designer-A5915F?style=for-the-badge&logo=altium%20designer&logoColor=white" /> ](https://www.altium.com/altium-designer)
 
 Here are some ideas to get you started:
 

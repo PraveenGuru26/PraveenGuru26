@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Embedded Hardware Engineers and PCB Design Engineers
 - 🤔 I’m looking for help with Hardware Design
 - 💬 Ask me about Altium Designer
-- 📫 How to reach me- come to thadagam ( mudincha vaada 🔥)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 📫 How to reach me-
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+  
 ![Praveen GitHub stats](https://github-readme-stats.vercel.app/api?username=PraveenGuru26&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenGuru26&hide_progress=true)

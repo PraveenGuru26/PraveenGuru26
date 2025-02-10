@@ -3,7 +3,7 @@
 
 **Praveen Guru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=altium)](https://skillicons.dev)
 
 Here are some ideas to get you started:
 
@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![Praveen GitHub stats](https://github-readme-stats.vercel.app/api?username=PraveenGuru26&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenGuru26&hide_progress=true)

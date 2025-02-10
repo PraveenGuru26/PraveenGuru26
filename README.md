@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Embedded Hardware Engineers and PCB Design Engineers
 - 🤔 I’m looking for help with Hardware Design
 - 💬 Ask me about Altium Designer
-- 📫 How to reach me
+- 📫 How to reach me :- 😏 Vengamagan othaila nikka dillu ituntha mothama 🤼 vanga da 🗡️  🔥🔥🔥🔥🔥
 
 [<img src="https://skillicons.dev/icons?i=linkedin"/> ](https://www.linkedin.com/in/Praveen-Guru-M) [<img src="https://skillicons.dev/icons?i=instagram"/> ](www.linkedin.com/in/Praveen-Guru-M) [<img src="https://skillicons.dev/icons?i=gmail&theme=light"/> ](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new)
   

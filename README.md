@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Altium Designer
 - 📫 How to reach me :- 
 
-[<img src="https://skillicons.dev/icons?i=linkedin"/> ](https://www.linkedin.com/in/Praveen-Guru-M) (www.linkedin.com/in/Praveen-Guru-M) [<img src="https://skillicons.dev/icons?i=gmail&theme=light"/> ](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new)
+[<img src="https://skillicons.dev/icons?i=linkedin"/> ](https://www.linkedin.com/in/Praveen-Guru-M) [<img src="https://skillicons.dev/icons?i=gmail&theme=light"/> ](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new)
   
 ![Praveen GitHub stats](https://github-readme-stats.vercel.app/api?username=PraveenGuru26&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenGuru26&hide_progress=true)

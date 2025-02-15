@@ -3,6 +3,8 @@
 
 **Praveen Guru Moorthy**
 
+[<img src="https://img.shields.io/badge/altium%20designer-A5915F?style=for-the-badge&logo=altium%20designer&logoColor=white" /> ](https://www.altium.com/altium-designer)
+
 
 
 Here are some ideas to get you started:
@@ -15,7 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me :- 
 
 [<img src="https://skillicons.dev/icons?i=linkedin"/> ](https://www.linkedin.com/in/Praveen-Guru-M) [<img src="https://skillicons.dev/icons?i=gmail&theme=light"/> ](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new)
-[<img src="https://img.shields.io/badge/altium%20designer-A5915F?style=for-the-badge&logo=altium%20designer&logoColor=white" /> ](https://www.altium.com/altium-designer)
 
 ![Praveen GitHub stats](https://github-readme-stats.vercel.app/api?username=PraveenGuru26&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenGuru26&hide_progress=true)
